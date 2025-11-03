@@ -25,11 +25,11 @@ function createBook(title, author, year, price) {
     year,
     price,
     getBookInfo() {
-      return `📘 ${this.title} - Tác giả: ${this.author}, Năm: ${this.year}, Giá: ${this.price.toLocaleString()}đ`;
+      return ` ${this.title} - Tác giả: ${this.author}, Năm: ${this.year}, Giá: ${this.price.toLocaleString()}đ`;
     },
     [discountKey](percent) {
       const finalPrice = this.price - (this.price * percent) / 100;
-      return `💸 Giá sau khi giảm ${percent}%: ${finalPrice.toLocaleString()}đ`;
+      return ` Giá sau khi giảm ${percent}%: ${finalPrice.toLocaleString()}đ`;
     },
   };
 }
