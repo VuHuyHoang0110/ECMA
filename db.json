@@ -1,0 +1,70 @@
+{
+  "tours": [
+    {
+      "id": 1,
+      "name": "Phú Quốc 3N2D",
+      "destination": "Phú Quốc",
+      "duration": "3 ngày 2 đêm",
+      "price": "100000000",
+      "image": "https://picsum.photos/400/300?random=10",
+      "description": "Khám phá biển xanh, cát trắng và hoàng hôn tuyệt đẹp tại Phú Quốc đẹp",
+      "available": 25
+    },
+    {
+      "id": 2,
+      "name": "Huế - Đà Nẵng 4N3D",
+      "destination": "Huế",
+      "duration": "4 ngày 3 đêm",
+      "price": 4200000,
+      "image": "https://picsum.photos/400/300?random=11",
+      "description": "Tham quan Đại Nội Huế, Bà Nà Hills và Cầu Vàng nổi tiếng",
+      "available": 18
+    },
+    {
+      "id": 3,
+      "name": "Ninh Bình 1N1D",
+      "destination": "Ninh Bình",
+      "duration": "1 ngày 1 đêm",
+      "price": 950000,
+      "image": "https://picsum.photos/400/300?random=12",
+      "description": "Trải nghiệm Tràng An, Hang Múa và chùa Bái Đính cổ kính",
+      "available": 30
+    }
+  ],
+  "users": [
+    {
+      "email": "Hoangvhph38878@gmail.com",
+      "password": "$2a$10$7lJeQnrj6aRBGZdxwTmMLuyrCjuBv2aeHi/wTzjEjkG7kpr.xlUca",
+      "fullname": "Hoàng",
+      "id": 1
+    },
+    {
+      "email": "admin@gmail.com",
+      "password": "$2a$10$3nwlULTnMLcW5WFFrc3re.ZZ53YNtV/j1mXInioEIZ7d9UOrDhz.q",
+      "fullname": "Hoàng",
+      "id": 2
+    },
+    {
+      "email": "123@gmail.com",
+      "password": "$2a$10$9nfLA9Yl6E5V84eUSSGfK.FhFa4fJzCGJQ7FNjYkz0oRV7VMmGxy6",
+      "fullname": "Hoàng",
+      "id": 3
+    },
+    {
+      "email": "admin1@gmail.com",
+      "password": "$2a$10$VmHeM8HY7ykXH9C.gdR1ZuJRwT6tHhGeScnJpBf4bqkONCZSgpl.e",
+      "fullname": "Hoàng",
+      "id": 4
+    },
+    {
+      "email": "admin4@gmail.com",
+      "password": "$2a$10$.7HHv.Y1WQHP99/13Iy6UehD7I8n.zj42rbyneLQY27vlPnrpiPV.",
+      "id": 5
+    },
+    {
+      "email": "nguyenchikiendh@gmail.com",
+      "password": "$2a$10$lrSIFoLknS09QKo3USudwukflueYrBjmiqQaJi2XDhgAFcMvQxB5m",
+      "id": 6
+    }
+  ]
+}
